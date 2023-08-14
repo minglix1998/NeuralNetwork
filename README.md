@@ -19,15 +19,16 @@ This repository contains a straightforward implementation of a neural network us
 1. Clone this repository:
    \```
    git clone https://github.com/minglix1998/NeuralNetwork
+   
    cd NeuralNetwork
    \```
 
-2. Make sure you have `numpy` installed:
+3. Make sure you have `numpy` installed:
    \```
    pip install numpy
    \```
 
-3. Run the neural network:
+4. Run the neural network:
    \```
    python neural_network.py
    \```
