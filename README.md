@@ -18,8 +18,8 @@ This repository contains a straightforward implementation of a neural network us
 
 1. Clone this repository:
    \```
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/minglix1998/NeuralNetwork
+   cd NeuralNetwork
    \```
 
 2. Make sure you have `numpy` installed:
